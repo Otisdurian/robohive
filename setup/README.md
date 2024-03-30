@@ -13,7 +13,7 @@
    # mujoco_py+mujoco as available sim_backend
    pip install robohive[mujoco_py]
    # mujoco_py+mujoco+visual encoders
-   pip install robohive[mujoco_py, encoder]
+   pip install robohive[mujoco_py,encoder]
    ```
    RoboHive will throw informative errors if any of these packages are invoked but not installed
    ```bash
